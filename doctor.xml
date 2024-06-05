@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2021-07-17 12:10">
     <shop>
-        <name>Центр подологии и аппаратного педикюра "Podologroom"</name>
-        <company>Центр подологии и аппаратного педикюра "Подологрум"</company>
+        <name>Центр подологии "Podologroom"</name>
+        <company>Центр подологии "Подологрум""</company>
         <url>https://podologroom.ru/</url>
         <email>info@podologroom.ru</email>
-        <picture>https://podologroom.ru/wp-content/uploads/2024/04/logo.png</picture>
+        <picture>https://podologroom.ru/wp-content/uploads/2024/06/foot-40-546879.png</picture>
         <description>Каталог врачей</description>
         <currencies>
           <currency id="RUR" rate="1" />
